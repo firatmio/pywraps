@@ -8,7 +8,7 @@
 
 [![PyPI version](https://badge.fury.io/py/pywraps.svg)](https://badge.fury.io/py/pywraps)
 [![Python Support](https://img.shields.io/pypi/pyversions/pywraps.svg)](https://pypi.org/project/pywraps/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Downloads](https://pepy.tech/badge/pywraps)](https://pepy.tech/project/pywraps)
 [![Code Quality](https://img.shields.io/badge/code%20quality-A+-brightgreen.svg)](https://github.com/pywraps/pywraps)
 
@@ -335,7 +335,7 @@ We welcome contributions! Here's how you can help:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
