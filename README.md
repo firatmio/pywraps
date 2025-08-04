@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![PyWraps Banner](https://via.placeholder.com/800x200/2E86AB/FFFFFF?text=PyWraps+%F0%9F%8E%81)
+![PyWraps Banner](https://github.com/firatmio/pywraps/assets/PyWraps.png)
 
 **A collection of powerful Python decorators for enhanced functionality**
 
